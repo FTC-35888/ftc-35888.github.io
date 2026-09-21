@@ -8,6 +8,7 @@ permalink: /
 
 - [REV DUO FTC Starter Bot](https://www.revrobotics.com/duo/ftc-starter-bot/) Website.
 - [2026-27 REV DUO FTC Starter Bot Build Guide](https://www.revrobotics.com/content/technical-resources/DUO/FTC-Kickoff-Concepts/2026-27/2026-27_REV_DUO_FTC_Starter_Bot-Build_Guide_1567.pdf)
+- [Task Tracker](https://app.notion.com/p/2026-27-REV-DUO-FTC-Starter-Bot-Build-Tracker-3e29b2e29b86815f8babce80d420ae17)
 
 # Intro Videos
 
