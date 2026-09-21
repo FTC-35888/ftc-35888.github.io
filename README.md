@@ -23,4 +23,6 @@ permalink: /
 # Useful Reminders
 
 - [http://192.168.43.1:8080](http://192.168.43.1:8080) Link to the controller hub.
-- Robot dimension limits 18" cubed, 18"x24"x29"
+- Robot dimension limits 
+  - 18" starting
+  - 18" x 24" x 29" extended
