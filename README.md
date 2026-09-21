@@ -18,3 +18,9 @@ permalink: /
 | [BIOBUZZ presented by RTX Field Walkthrough](https://www.youtube.com/watch?v=47X9sYnPijw) | A guided tour of the BIOBUZZ playing field and its game elements. |
 | [2026-27 REV DUO FTC Starter Bot Walkthrough](https://www.youtube.com/watch?v=CvdBR6HiOWo) | REV Robotics introduces its starter robot design for the 2026–27 FTC season. |
 | [Match 1 BIOBUZZ Robot in 30 Hours FIRST Tech Challenge](https://www.youtube.com/watch?v=K5YZrcz5puc) | Watch the first BIOBUZZ match from the Robot in 30 Hours event. |
+
+
+# Useful Reminders
+
+- [http://192.168.43.1:8080](http://192.168.43.1:8080) Link to the controller hub.
+- Robot dimension limits 18" cubed, 18"x24"x29"
